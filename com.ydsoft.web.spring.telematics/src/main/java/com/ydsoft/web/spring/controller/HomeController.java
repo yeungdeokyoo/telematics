@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import com.google.api.services.calendar.Calendar;
 import com.google.api.services.calendar.model.CalendarList;
 import com.google.api.services.calendar.model.CalendarListEntry;
-import com.ydsoft.web.GoogleCalendarService;
+import com.ydsoft.web.spring.google.calendar.GoogleCalendarService;
 
 /**
  * Handles requests for the application home page.

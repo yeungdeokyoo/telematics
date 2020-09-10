@@ -1,4 +1,4 @@
-package com.ydsoft.web;
+package com.ydsoft.web.spring.google.calendar;
 
 import java.io.IOException;
 
