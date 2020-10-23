@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 @Controller
 public class CalendarController {
 	
-	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
+	private static final Logger logger = LoggerFactory.getLogger(CalendarController.class);
 
 	@RequestMapping(value = "/calendar", method = RequestMethod.GET)
 	public String calendar(Locale locale, Model model) {
