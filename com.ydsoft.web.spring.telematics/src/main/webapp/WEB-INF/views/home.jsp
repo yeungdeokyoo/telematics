@@ -10,6 +10,8 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
+<P>  Data from server : ${data}. </P>
+<P>  Name : ${name}. </P>
 <P>  <a href="/calendar/">Calendar</a> </P>
 <P>  <a href="/member/">Member</a> </P>
 
